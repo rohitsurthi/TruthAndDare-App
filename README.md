@@ -1,2 +1,2 @@
 # TruthAndDare-App
-A simple and fun truth and dare game mobile application 
+A fun Truth And Dare game mobile application 
